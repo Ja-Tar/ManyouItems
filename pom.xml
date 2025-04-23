@@ -241,7 +241,7 @@
         <dependency>
             <groupId>com.willfp</groupId>
             <artifactId>libreforge</artifactId>
-            <version>4.51.0</version>
+            <version>10.23.0</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
