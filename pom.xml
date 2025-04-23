@@ -217,7 +217,7 @@
         <dependency>
             <groupId>com.github.Emibergo02</groupId>
             <artifactId>RedisEconomy</artifactId>
-            <version>anyBranch-SNAPSHOT</version>
+            <version>-SNAPSHOT</version>
             <scope>provided</scope>
             <exclusions>
                 <exclusion>
@@ -295,13 +295,13 @@
         <dependency>
             <groupId>me.TechsCode</groupId>
             <artifactId>UltraEconomyAPI</artifactId>
-            <version>anyBranch-SNAPSHOT</version>
+            <version>-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
             <groupId>com.github.Auxilor</groupId>
             <artifactId>EcoBits</artifactId>
-            <version>anyBranch-SNAPSHOT</version>
+            <version>-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
         <dependency>
